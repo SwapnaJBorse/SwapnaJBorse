@@ -5,10 +5,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=SwapnaJBorse&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="profile views" />
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapna-borse-511a02321)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Mail+Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borseswapna2203@gmail.com)
 
 </div>
 
@@ -59,12 +55,12 @@
 
 ## 💼 Internship Experience
 
-### 🏢 Software Developer Intern — **HummingByte**
+###  Software Developer Intern — **HummingByte**
 
-- 🔧 Built backend functionalities using **Java & Spring Boot** to support core application modules
-- 🐛 Resolved **50+ bugs**, improving system stability and reducing application errors by **30%**
-- 🤝 Collaborated with a development team to implement new features, enhancing system functionality by **25%**
-- 🧪 Participated in code reviews and debugging, improving overall code quality and maintainability by **20%**
+-  Built backend functionalities using **Java & Spring Boot** to support core application modules
+-  Resolved **50+ bugs**, improving system stability and reducing application errors by **30%**
+-  Collaborated with a development team to implement new features, enhancing system functionality by **25%**
+-  Participated in code reviews and debugging, improving overall code quality and maintainability by **20%**
 
 ---
 
@@ -73,30 +69,30 @@
 ### 🟣 Smart Habit Tracker
 > `Java` `OOP` `Collections Framework`
 
-- 📋 Built a habit tracking app allowing users to add and manage **10+ daily habits**
-- ✏️ Implemented **create, update & delete** functionality for improved task management efficiency
-- 📦 Utilized **Java Collections** to manage and organize habit data dynamically
-- ✅ Designed a simple interface enabling users to track **100% habit completion progress**
+-  Built a habit tracking app allowing users to add and manage **10+ daily habits**
+-  Implemented **create, update & delete** functionality for improved task management efficiency
+-  Utilized **Java Collections** to manage and organize habit data dynamically
+-  Designed a simple interface enabling users to track **100% habit completion progress**
 
 ---
 
 ### 🔵 Online Exam Portal
 > `Java` `Spring Boot` `React` `MySQL` `REST APIs`
 
-- 🧑‍💼 Developed a full-stack examination system supporting **3 user roles** — Admin, Teacher & Student
-- 📅 Implemented exam scheduling & question management for teachers to manage **50+ tests productively**
-- ⚙️ Built backend services using **Spring Boot & REST APIs** handling **50+ user interactions**
-- 🗃️ Integrated **MySQL** to securely store exam data, student records & results with **100% data consistency**
+- 🧑 Developed a full-stack examination system supporting **3 user roles** — Admin, Teacher & Student
+-  Implemented exam scheduling & question management for teachers to manage **50+ tests productively**
+-  Built backend services using **Spring Boot & REST APIs** handling **50+ user interactions**
+-  Integrated **MySQL** to securely store exam data, student records & results with **100% data consistency**
 
 ---
 
 ### 🟢 Personal Portfolio Website
 > `HTML` `CSS` `JavaScript`
 
-- 🎨 Designed a **responsive portfolio website** showcasing 3+ projects, skills & achievements
-- 📱 Built a responsive UI using HTML & CSS supporting **multiple device screen sizes**
-- ✨ Added **interactive JavaScript elements** to improve user engagement and navigation
-- 🗂️ Structured with dedicated sections for projects, skills & contact to boost professional visibility
+-  Designed a **responsive portfolio website** showcasing 3+ projects, skills & achievements
+-  Built a responsive UI using HTML & CSS supporting **multiple device screen sizes**
+-  Added **interactive JavaScript elements** to improve user engagement and navigation
+-  Structured with dedicated sections for projects, skills & contact to boost professional visibility
 
 ---
 
@@ -124,7 +120,6 @@
 |-------|--------|
 | 🔷 Microservices with Spring Boot | 🔄 In Progress |
 | 🐳 Docker & Deployment basics | 🔄 In Progress |
-| 
 
 ---
 
@@ -132,9 +127,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapna-borse-511a02321)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borseswapna2203@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwapnaJBorse)
+💼 **LinkedIn:** swapna-borse-511a02321
+
+📧 **Email:** borseswapna2203@gmail.com
+
+🐙 **GitHub:** SwapnaJBorse
 
 <br/>
 
